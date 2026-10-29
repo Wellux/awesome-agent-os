@@ -3,7 +3,7 @@
   <img alt="Awesome Agent OS" src=".github/assets/header-hell.svg" width="100%">
 </picture>
 
-<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="87 picks" src="https://img.shields.io/badge/picks-87-1B8DBE?style=flat-square"> <img alt="7.3M stars combined" src="https://img.shields.io/badge/stars_combined-7.3M-1B8DBE?style=flat-square"> <a href="https://github.com/Wellux/awesome-agent-os/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Wellux/awesome-agent-os?style=flat-square&color=95969A"></a> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
+<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="87 picks" src="https://img.shields.io/badge/picks-87-1B8DBE?style=flat-square"> <img alt="7.3M stars combined" src="https://img.shields.io/badge/stars_combined-7.3M-1B8DBE?style=flat-square"> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
 
 <h3 align="center">Your AI forgets you every morning. These repos fix that.</h3>
 
