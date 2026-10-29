@@ -14,7 +14,6 @@ body:
     id: job
     attributes:
       label: The one job it does
-      placeholder: Turns websites into LLM-ready data.
     validations:
       required: true
   - type: dropdown
@@ -22,31 +21,27 @@ body:
     attributes:
       label: Section
       options:
-        - Agents that live with you
-        - Coding agents
+        - Personal agents
+        - OpenClaw
+        - Hermes Agent
+        - DeepSeek Harness
+        - Agent and company OS
         - Cockpits and control planes
-        - Skills and playbooks
-        - Tools and MCP
-        - Memory and second brain
-        - Models and runtimes
-        - Automation and pipelines
-        - Web, browser and data
+        - Chat clients and add-ons
         - Home, body and devices
-        - Guardrails and security
         - I am not sure
-        - Other (say below)
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
-      label: Why it beats what is listed
+      label: Why it belongs here
   - type: checkboxes
     id: rules
     attributes:
       label: Rules
       options:
-        - label: Open source with a clear license
+        - label: Public repo with a clear license
           required: true
-        - label: Active in the last six months
+        - label: Works today, maintained or a finished classic
           required: true
