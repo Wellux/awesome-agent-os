@@ -1,0 +1,52 @@
+name: New pick
+description: Suggest a repo for Awesome Agent OS
+title: "Pick: "
+labels: ["new pick"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository link
+      placeholder: https://github.com/owner/name
+    validations:
+      required: true
+  - type: input
+    id: job
+    attributes:
+      label: The one job it does
+      placeholder: Turns websites into LLM-ready data.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Agents that live with you
+        - Coding agents
+        - Cockpits and control planes
+        - Skills and playbooks
+        - Tools and MCP
+        - Memory and second brain
+        - Models and runtimes
+        - Automation and pipelines
+        - Web, browser and data
+        - Home, body and devices
+        - Guardrails and security
+        - I am not sure
+        - Other (say below)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it beats what is listed
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: Open source with a clear license
+          required: true
+        - label: Active in the last six months
+          required: true
