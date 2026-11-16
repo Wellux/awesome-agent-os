@@ -734,6 +734,8 @@ Every list comes from the same 7,226 starred repos, sorted by the job they do. E
 | **[awesome-ai-creator-stack](https://github.com/Wellux/awesome-ai-creator-stack)** | Open-source AI tools and agent skills for creators: voice, video, motion, images, 3D, design, slides and writing. | 474 |
 | **[awesome-ai-at-work](https://github.com/Wellux/awesome-ai-at-work)** | AI agents, apps and skills for real work: research, finance, marketing, sales, office, data, careers and industries. | 217 |
 
+**All nine lists on one map, with the AI OS Rating per category:** [Wellux Starred Repos](https://github.com/Wellux/wellux-starred).
+
 ## How picks are made
 
 1. Starred because it was useful, not because it trended.
